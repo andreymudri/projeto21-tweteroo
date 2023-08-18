@@ -11,5 +11,5 @@ export class TweetDto {
   @IsNotEmpty({
     message: 'All fields are required!',
   })
-  message: string;
+  tweet: string;
 }

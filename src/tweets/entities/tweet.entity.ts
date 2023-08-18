@@ -1,8 +1,8 @@
 export class Tweet {
   username: string;
-  message: string;
-  constructor(username, message) {
+  tweet: string;
+  constructor(username, tweet) {
     this.username = username;
-    this.message = message;
+    this.tweet = tweet;
   }
 }
