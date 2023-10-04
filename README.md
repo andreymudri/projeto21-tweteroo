@@ -5,6 +5,12 @@
 - Keep in mind it does not have data persistency(database). every time you restart the server it's messages will be wiped out.
 
 
+
+## Technologies used
+- Nest.JS
+- Typescript
+
+
 ## Installation
 
 ```bash
